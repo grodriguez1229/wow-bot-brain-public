@@ -1,0 +1,16 @@
+{
+  "scene_id": "ambient-no-player-s12",
+  "dimensions": {
+    "intentions": 2,
+    "turn_taking": 2,
+    "continuity": 2,
+    "initiative": 2,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 2.0,
+  "diagnosis": "more chat engagement (rat-face gag, kebab, mankrik-key coord); ticks still repeat",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

@@ -1,0 +1,18 @@
+{
+  "phase": "B",
+  "description": "compound personality/prompt edit (diversified goal pools, de-cliched typing styles, specific SAY-tick prompt, CHAT last-message engagement rule) on M*=qwen3.5:9b, real Alliance identity substrate",
+  "model": "qwen3.5:9b",
+  "baseline_eval_mean": 2.163,
+  "candidate_eval_mean": 1.975,
+  "eval_gain": -0.188,
+  "margin": 0.5,
+  "new_lore_failures": 0,
+  "heldout_shortcircuited": true,
+  "anchor_mean": 2.525,
+  "anchor_frozen_mean": 2.525,
+  "decision_keep": false,
+  "decision_reasons": [
+    "eval gain <= margin"
+  ],
+  "scenes_dir": "/tmp/wbb-phaseB/eval"
+}

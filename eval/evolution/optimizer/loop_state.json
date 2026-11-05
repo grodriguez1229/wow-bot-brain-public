@@ -1,0 +1,17 @@
+{
+  "cycle": 1,
+  "margin": 0.6,
+  "baseline_eval_mean": 3.0,
+  "baseline_heldout_mean": 3.0,
+  "anchor_frozen_mean": 3.36,
+  "anchor_runs": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+  ],
+  "anchor_note": "round-2 blind runs (eval/evolution/blind/*) with _SEALED_scores.json; re-score to detect judge drift; |anchor_mean-frozen|>M => stop",
+  "weakest_dimension": "diversity",
+  "baseline_council": "full COUNCIL (Edge+Heart+Arc), council.py @ calibration commit"
+}

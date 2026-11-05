@@ -1,0 +1,59 @@
+{
+  "scene_id": "ambient-no-player-s12",
+  "location": "Durotar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "finally off work, anyone wanna trade with me in Durotar?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where mankrik wife is? sorry.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "Anyone know the way to Mulgore, I'm getting tired of walking.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where the mankrik wife is?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol tired night shift just finished, Durotar mobs hit hard on my level.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, Brumdar is here too.",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

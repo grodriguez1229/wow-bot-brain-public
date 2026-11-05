@@ -1,0 +1,16 @@
+{
+  "scene_id": "ambient-no-player-s13",
+  "dimensions": {
+    "intentions": 1,
+    "turn_taking": 1,
+    "continuity": 1,
+    "initiative": 1,
+    "voice": 1
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 1.0,
+  "diagnosis": "mixed: more banter, but worse tick repetition + invented geography",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

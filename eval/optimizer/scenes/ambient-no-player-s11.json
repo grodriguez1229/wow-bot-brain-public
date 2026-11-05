@@ -1,0 +1,59 @@
+{
+  "scene_id": "ambient-no-player-s11",
+  "location": "Durotar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "Anyone want to run through the Deadmines for a bit?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where mankrik's wife is lol?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, just need better gear",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "Just got off shift, anyone know where the Man'rik's wife quest is?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where the mankrik wife quest is?",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

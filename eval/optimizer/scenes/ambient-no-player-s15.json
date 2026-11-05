@@ -1,0 +1,59 @@
+{
+  "scene_id": "ambient-no-player-s15",
+  "location": "Durotar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, hope Sylvara's got a healing spell ready.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where to find mankrik's wife for that quest?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, glad Sylvara isn't here to save me today.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where mankrik wife is?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, wish I had that bracer.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where mankrik wife is?",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

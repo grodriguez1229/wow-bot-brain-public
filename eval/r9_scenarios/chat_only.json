@@ -1,0 +1,46 @@
+{
+  "name": "chat_only",
+  "player": {
+    "name": "Abril",
+    "level": 10,
+    "faction": "Alliance"
+  },
+  "bots": [
+    {
+      "bot_name": "Astianon",
+      "level": 12,
+      "faction": "Alliance",
+      "race": "Night Elf",
+      "class_name": "Hunter"
+    }
+  ],
+  "relationships": [
+    {
+      "bot": "Astianon",
+      "chat_points": 30
+    }
+  ],
+  "steps": [
+    {
+      "at": 100,
+      "tick": {
+        "bot_name": "Astianon",
+        "location": "Darkshore",
+        "activity": "questing",
+        "nearby_players": []
+      }
+    },
+    {
+      "at": 160,
+      "event": {
+        "type": "login",
+        "player": "Abril",
+        "zone": "Darkshore",
+        "group": []
+      }
+    }
+  ],
+  "expect": {
+    "whisper": false
+  }
+}

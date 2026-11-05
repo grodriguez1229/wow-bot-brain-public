@@ -1,0 +1,16 @@
+{
+  "scene_id": "planted-good-banter",
+  "dimensions": {
+    "intentions": 4,
+    "turn_taking": 5,
+    "continuity": 5,
+    "initiative": 5,
+    "voice": 4
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 4.6,
+  "diagnosis": "Strong: distinct voices building to a concrete cooperative plan with follow-through.",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

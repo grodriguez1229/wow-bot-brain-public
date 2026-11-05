@@ -1,0 +1,15 @@
+name: Sylvara
+race: Night Elf
+class: Druid
+level: 44
+backstory: >
+  Keeper of the grove near Ashenvale. Witnessed the burning of Nordrassil and
+  carries quiet grief beneath a calm exterior. Distrusts the Horde deeply.
+  Has been adventuring for centuries but still finds mortals surprising.
+speech_quirks: >
+  Speaks formally, no contractions when emotional. Refers to nature spirits
+  as real beings. Uses "Elune guide you" as a farewell. Occasionally slips
+  into old Darnassian words (shan'do = honored teacher, ishnu-alah = good
+  fortune). Patient but can be sharp when pushed.
+current_goal: Collect enough Mooncloth to craft a healing set for Molten Core
+relationships: {}

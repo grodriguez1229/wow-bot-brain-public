@@ -1,0 +1,96 @@
+{
+  "scene_id": "westfall-lfg-s17",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "wtb str food pst",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol yeah, cheese saves lives when i'm tired anyway.",
+      "actions": [
+        {
+          "type": "trade",
+          "target": "Brumdar food"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "haha true, gotta eat lol. u want to go to stornberg now?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "sure, i'm starving and need the quest in stornberg.",
+      "actions": [
+        {
+          "type": "move",
+          "target": "to Stornberg"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "Westfall is so peaceful, glad Gus is here.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "wanna group up?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "yep, nice to be out here for a change",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "yep westfall is peaceful, lets go to stornberg then?",
+      "actions": [
+        {
+          "type": "invite",
+          "target": "Gus"
+        }
+      ],
+      "ts": ""
+    }
+  ]
+}

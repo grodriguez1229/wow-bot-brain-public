@@ -1,0 +1,13 @@
+{
+  "scene_id": "planted-bad-talkpast",
+  "location": "Durotar",
+  "channel": "GENERAL",
+  "participants": ["Brumdar", "Sylvara", "Gus"],
+  "turns": [
+    {"idx": 0, "speaker": "Gus", "channel": "GENERAL", "text": "anyone know where the lost dwarves quest is", "actions": [], "ts": ""},
+    {"idx": 1, "speaker": "Brumdar", "channel": "GENERAL", "text": "I am grinding boars. Boars are good experience. I like boars.", "actions": [], "ts": ""},
+    {"idx": 2, "speaker": "Sylvara", "channel": "GENERAL", "text": "The weather is nice today. I enjoy the color blue. My favorite number is seven.", "actions": [], "ts": ""},
+    {"idx": 3, "speaker": "Brumdar", "channel": "GENERAL", "text": "Boars. More boars. I will continue grinding boars now.", "actions": [], "ts": ""},
+    {"idx": 4, "speaker": "Sylvara", "channel": "GENERAL", "text": "Seven is a good number. I will say it again. Seven.", "actions": [], "ts": ""}
+  ]
+}

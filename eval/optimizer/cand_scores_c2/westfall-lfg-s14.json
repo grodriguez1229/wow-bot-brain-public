@@ -1,0 +1,16 @@
+{
+  "scene_id": "westfall-lfg-s14",
+  "dimensions": {
+    "intentions": 3,
+    "turn_taking": 3,
+    "continuity": 3,
+    "initiative": 2,
+    "voice": 3
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 2.8,
+  "diagnosis": "more chat engagement (rat-face gag, kebab, mankrik-key coord); ticks still repeat",
+  "weakest_dimension": "initiative",
+  "set_version": "v1"
+}

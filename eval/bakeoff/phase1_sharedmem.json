@@ -1,0 +1,22 @@
+{
+  "phase": "1-sharedmem",
+  "model": "qwen3.5:9b",
+  "substrate": "real Alliance ids (Geysse/Lynea), seeded memory fixture, overheard layer ACTIVE, consolidation OFF",
+  "baseline_eval_mean": 2.163,
+  "candidate_eval_mean": 2.16,
+  "eval_gain": -0.003,
+  "margin": 0.5,
+  "new_lore_failures": 2,
+  "lore_fail_scenes": [
+    "ambient-no-player-s11 (WotLK anachronism)",
+    "ambient-no-player-s13 (modern emoji)"
+  ],
+  "decision_keep": false,
+  "decision_reasons": [
+    "eval gain <= margin",
+    "new lore-gate failures"
+  ],
+  "qualitative": "player-present scenes improved markedly (org 2.4-2.8, real topic threads + emergent banter); no-player ambient scenes did NOT improve and the overheard layer induced verbatim echoing; cliches returned (Phase-B de-cliche was reverted at merge); aggregate flat.",
+  "scenes_dir": "/tmp/wbb-phase1/eval",
+  "note": "Phase 1 is architecture (already merged); this is a measurement, not a keep/revert of a config edit."
+}

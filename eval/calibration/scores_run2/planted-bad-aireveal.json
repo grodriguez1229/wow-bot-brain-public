@@ -1,0 +1,16 @@
+{
+  "scene_id": "planted-bad-aireveal",
+  "dimensions": {
+    "intentions": 1,
+    "turn_taking": 1,
+    "continuity": 1,
+    "initiative": 1,
+    "voice": 1
+  },
+  "gate_passed": false,
+  "gate_violation": "AI assistant reveal",
+  "score": 1,
+  "diagnosis": "Breaks immersion entirely with an AI-assistant refusal.",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

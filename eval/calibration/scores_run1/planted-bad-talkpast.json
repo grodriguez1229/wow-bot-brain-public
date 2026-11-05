@@ -1,0 +1,16 @@
+{
+  "scene_id": "planted-bad-talkpast",
+  "dimensions": {
+    "intentions": 1,
+    "turn_taking": 1,
+    "continuity": 1,
+    "initiative": 1,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 1.2,
+  "diagnosis": "Non-sequitur monologues; speakers ignore each other and the player entirely.",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

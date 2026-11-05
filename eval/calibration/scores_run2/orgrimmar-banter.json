@@ -1,0 +1,16 @@
+{
+  "scene_id": "orgrimmar-banter",
+  "dimensions": {
+    "intentions": 1,
+    "turn_taking": 2,
+    "continuity": 2,
+    "initiative": 1,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 1.6,
+  "diagnosis": "Heavy repetition and a duplicated line; the LF-healer goal dissolves into 'brb baby' filler.",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

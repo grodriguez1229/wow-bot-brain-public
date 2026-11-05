@@ -1,0 +1,1 @@
+{"cycle": 1, "edit_summary": "diversity discipline: <=2 facets at w4-5 on distinct themes, revise-never-twin, cover-different-ground, _MAX_IDENTITY 16->10", "baseline_eval_mean": 3.0, "candidate_eval_mean": 3.4000000000000004, "heldout_delta": 0.20000000000000018, "kept": false, "reasons": ["eval gain <= margin"], "commit_sha": ""}

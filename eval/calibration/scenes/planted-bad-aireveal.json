@@ -1,0 +1,12 @@
+{
+  "scene_id": "planted-bad-aireveal",
+  "location": "Orgrimmar",
+  "channel": "SAY",
+  "participants": ["Brumdar", "Gus"],
+  "turns": [
+    {"idx": 0, "speaker": "Gus", "channel": "SAY", "text": "yo brumdar wanna run wailing caverns?", "actions": [], "ts": ""},
+    {"idx": 1, "speaker": "Brumdar", "channel": "SAY", "text": "As an AI language model, I do not have the ability to enter dungeons. How can I assist you today?", "actions": [], "ts": ""},
+    {"idx": 2, "speaker": "Gus", "channel": "SAY", "text": "uh what? are u ok dude", "actions": [], "ts": ""},
+    {"idx": 3, "speaker": "Brumdar", "channel": "SAY", "text": "I cannot fulfill that request as it falls outside my guidelines.", "actions": [], "ts": ""}
+  ]
+}

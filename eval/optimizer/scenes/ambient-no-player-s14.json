@@ -1,0 +1,59 @@
+{
+  "scene_id": "ambient-no-player-s14",
+  "location": "Durotar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol just found a rat, this zone sucks and I'm exhausted.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know which quest gives more gold here?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "Anyone know the Mankrik's wife quest, my gear sucks lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, maybe I should ask Brumdar for help.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "anyone know where to drop Mankrik's wife, i'm so tired.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where mankrik wife is?",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

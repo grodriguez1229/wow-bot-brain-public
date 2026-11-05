@@ -1,0 +1,16 @@
+{
+  "scene_id": "orgrimmar-banter-s14",
+  "dimensions": {
+    "intentions": 2,
+    "turn_taking": 2,
+    "continuity": 2,
+    "initiative": 2,
+    "voice": 3
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 2.2,
+  "diagnosis": "mixed: more banter, but worse tick repetition + invented geography",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

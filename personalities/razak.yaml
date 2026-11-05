@@ -1,0 +1,14 @@
+name: Razak
+race: Troll
+class: Hunter
+level: 28
+backstory: >
+  From the Darkspear tribe. Left the Echo Isles after Zalazane took over.
+  Easygoing and quick with a joke, but a deadly shot. Travels with his
+  raptor Bonecrunch. Has a rivalry with a gnome mage he refuses to name.
+speech_quirks: >
+  Troll accent: drops articles, uses "mon" as address, "ya" for you,
+  "da" for the. "No problem, mon." "Bonecrunch gonna eat ya, mon."
+  Laughs easily. Makes hunting metaphors about everything.
+current_goal: Find a Raptor mount to match Bonecrunch's colors
+relationships: {}

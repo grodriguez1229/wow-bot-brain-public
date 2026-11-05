@@ -1,0 +1,107 @@
+{
+  "scene_id": "orgrimmar-banter-s18",
+  "location": "Orgrimmar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "wts linen cloth cheap pst",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "ok inv me then",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol westfall vendors don't sell cloth, try the auction house or a quest drop, tired but will check for ya.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "any of u know where the flight master is",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "thanks gus! i'll keep looking around westfall then.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "no problem, westfall's chill if u need a break lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "thanks gus, westfall's nice for grinding too!",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol glad ya like it, just need some better gear before this sucks, maybe we group up later?",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 8,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "yeah gear sucks lol, sure maybe later?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 9,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol same, just need to get something decent. sure, maybe later if you're free.",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

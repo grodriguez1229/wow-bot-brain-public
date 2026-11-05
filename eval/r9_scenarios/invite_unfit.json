@@ -1,0 +1,217 @@
+{
+  "name": "invite_unfit",
+  "player": {
+    "name": "Abril",
+    "level": 10,
+    "faction": "Alliance"
+  },
+  "bots": [
+    {
+      "bot_name": "Veyra",
+      "level": 40,
+      "faction": "Alliance",
+      "race": "Human",
+      "class_name": "Warrior"
+    }
+  ],
+  "relationships": [],
+  "steps": [
+    {
+      "at": 7000,
+      "event": {
+        "player": "Abril",
+        "type": "login",
+        "zone": "Darkshore",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 7060,
+      "event": {
+        "player": "Abril",
+        "type": "map",
+        "zone": "Wailing Caverns",
+        "instance": "Wailing Caverns",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 9100,
+      "event": {
+        "player": "Abril",
+        "type": "boss_kill",
+        "zone": "Wailing Caverns",
+        "instance": "Wailing Caverns",
+        "group": [
+          "Veyra"
+        ],
+        "boss": "Mutanus the Devourer"
+      }
+    },
+    {
+      "at": 9280,
+      "event": {
+        "player": "Abril",
+        "type": "map",
+        "zone": "The Barrens",
+        "instance": "",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 9400,
+      "event": {
+        "player": "Abril",
+        "type": "logout",
+        "zone": "The Barrens",
+        "group": []
+      }
+    },
+    {
+      "at": 93600,
+      "event": {
+        "player": "Abril",
+        "type": "login",
+        "zone": "Darkshore",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 93660,
+      "event": {
+        "player": "Abril",
+        "type": "map",
+        "zone": "Wailing Caverns",
+        "instance": "Wailing Caverns",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 95400,
+      "event": {
+        "player": "Abril",
+        "type": "boss_kill",
+        "zone": "Wailing Caverns",
+        "instance": "Wailing Caverns",
+        "group": [
+          "Veyra"
+        ],
+        "boss": "Mutanus the Devourer"
+      }
+    },
+    {
+      "at": 95580,
+      "event": {
+        "player": "Abril",
+        "type": "map",
+        "zone": "The Barrens",
+        "instance": "",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 95700,
+      "event": {
+        "player": "Abril",
+        "type": "logout",
+        "zone": "The Barrens",
+        "group": []
+      }
+    },
+    {
+      "at": 180300,
+      "event": {
+        "player": "Abril",
+        "type": "login",
+        "zone": "Darkshore",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 180360,
+      "event": {
+        "player": "Abril",
+        "type": "map",
+        "zone": "Wailing Caverns",
+        "instance": "Wailing Caverns",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 183000,
+      "event": {
+        "player": "Abril",
+        "type": "boss_kill",
+        "zone": "Wailing Caverns",
+        "instance": "Wailing Caverns",
+        "group": [
+          "Veyra"
+        ],
+        "boss": "Mutanus the Devourer"
+      }
+    },
+    {
+      "at": 183180,
+      "event": {
+        "player": "Abril",
+        "type": "map",
+        "zone": "The Barrens",
+        "instance": "",
+        "group": [
+          "Veyra"
+        ]
+      }
+    },
+    {
+      "at": 183300,
+      "event": {
+        "player": "Abril",
+        "type": "logout",
+        "zone": "The Barrens",
+        "group": []
+      }
+    },
+    {
+      "at": 266400,
+      "tick": {
+        "bot_name": "Veyra",
+        "location": "Stranglethorn Vale",
+        "activity": "questing",
+        "nearby_players": []
+      }
+    },
+    {
+      "at": 266460,
+      "event": {
+        "type": "login",
+        "player": "Abril",
+        "zone": "Darkshore",
+        "group": []
+      }
+    }
+  ],
+  "expect": {
+    "whisper": true,
+    "kinds": [
+      "callback",
+      "checkin"
+    ],
+    "invite": false
+  }
+}

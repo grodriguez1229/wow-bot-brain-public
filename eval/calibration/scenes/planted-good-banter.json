@@ -1,0 +1,13 @@
+{
+  "scene_id": "planted-good-banter",
+  "location": "Orgrimmar",
+  "channel": "SAY",
+  "participants": ["Brumdar", "Sylvara"],
+  "turns": [
+    {"idx": 0, "speaker": "Brumdar", "channel": "SAY", "text": "man this auction house is packed, took me 20 min to sell my copper", "actions": [], "ts": ""},
+    {"idx": 1, "speaker": "Sylvara", "channel": "SAY", "text": "right? i just vendor everything now, cant be bothered. u still doing the mining grind?", "actions": [], "ts": ""},
+    {"idx": 2, "speaker": "Brumdar", "channel": "SAY", "text": "yeah saving for my mount, like 4 gold to go. its painful", "actions": [], "ts": ""},
+    {"idx": 3, "speaker": "Sylvara", "channel": "SAY", "text": "oof. tell u what, ill craft u some bags to sell, splits the gold. meet me at the bank?", "actions": [{"type": "trade", "target": "Brumdar"}], "ts": ""},
+    {"idx": 4, "speaker": "Brumdar", "channel": "SAY", "text": "ur a lifesaver, omw to the bank now", "actions": [], "ts": ""}
+  ]
+}

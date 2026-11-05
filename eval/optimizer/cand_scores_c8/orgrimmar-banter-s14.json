@@ -1,0 +1,16 @@
+{
+  "scene_id": "orgrimmar-banter-s14",
+  "dimensions": {
+    "intentions": 1,
+    "turn_taking": 2,
+    "continuity": 1,
+    "initiative": 2,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 1.6,
+  "diagnosis": "specific goals barely surfaced; model defaults to murloc/coffee/tired; hallucinated 'Molthar'",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

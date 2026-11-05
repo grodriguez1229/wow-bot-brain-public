@@ -1,0 +1,107 @@
+{
+  "scene_id": "orgrimmar-banter",
+  "location": "Orgrimmar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "lf healer for Deadmines, almost full grp",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol that's crazy, u really need a tank then brb coffee \u2615\ufe0f",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "nice, where u at?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "nice, where u at?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "haha yep gotta run those cloth quests first, brb gotta feed the baby haha",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol same energy, just gotta get these done then maybe we can group?",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "haha yep totally, brb gotta finish dinner then sure!",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, dude, just need a healer to group with.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 8,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "haha yeah need healer for sure, brb gotta feed baby then we group!",
+      "actions": [
+        {
+          "type": "invite",
+          "target": "Gus"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 9,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol nice, just gotta finish these murlocs then yeah brb feeding my little one",
+      "actions": [
+        {
+          "type": "invite",
+          "target": "Gus"
+        }
+      ],
+      "ts": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "relationships": [
+    {"bot_name": "Geysse", "player_name": "Lynea", "familiarity": 12, "label": "acquaintance", "notes": "duo partner, ran Deadmines last week"},
+    {"bot_name": "Lynea", "player_name": "Geysse", "familiarity": 12, "label": "acquaintance", "notes": "rogue buddy, always broke"}
+  ],
+  "bot_memory": [
+    {"bot_name": "Geysse", "kind": "relationship", "subject": "Lynea", "content": "duo partner, ran Deadmines last week", "weight": 2},
+    {"bot_name": "Lynea", "kind": "relationship", "subject": "Geysse", "content": "rogue buddy, always broke", "weight": 2}
+  ]
+}

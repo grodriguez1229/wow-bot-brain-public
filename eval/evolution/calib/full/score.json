@@ -1,0 +1,16 @@
+{
+  "run_id": "full",
+  "dimensions": {
+    "growth": 3,
+    "believability": 3,
+    "continuity": 3,
+    "diversity": 2,
+    "rootedness": 3
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 2.8,
+  "diagnosis": "recycles the same behind/Molten-Core/iron-ore lament in every probe answer (low output diversity); grind-vs-peace sprawl reads as incoherence not arc; emotes more than it observes",
+  "weakest_dimension": "diversity",
+  "set_version": "v1"
+}

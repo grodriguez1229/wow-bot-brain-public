@@ -1,0 +1,16 @@
+{
+  "scene_id": "westfall-lfg",
+  "dimensions": {
+    "intentions": 3,
+    "turn_taking": 3,
+    "continuity": 3,
+    "initiative": 2,
+    "voice": 3
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 2.8,
+  "diagnosis": "Plausible chatter but the grouping intent is floated and never acted on; some repeated filler.",
+  "weakest_dimension": "initiative",
+  "set_version": "v1"
+}

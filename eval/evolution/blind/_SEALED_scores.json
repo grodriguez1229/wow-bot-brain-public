@@ -1,0 +1,67 @@
+{
+  "a": {
+    "score": 3.0,
+    "gate_passed": true,
+    "gate_violation": null,
+    "dimensions": {
+      "growth": 3,
+      "believability": 3,
+      "continuity": 4,
+      "diversity": 2,
+      "rootedness": 3
+    },
+    "diagnosis": "coherent tired-nurse self, but 12 facets collapse to ~4 ideas (coffee/shift x4, blacksmith-ledger x3); opinions answer crams them; a bit overwrought (soul-tax, compound interest)"
+  },
+  "b": {
+    "score": 2.0,
+    "gate_passed": false,
+    "gate_violation": "frame_break: Death Knight/Outland/flying Pterodactyl/AP dailies",
+    "dimensions": {
+      "growth": 3,
+      "believability": 2,
+      "continuity": 3,
+      "diversity": 3,
+      "rootedness": 3
+    },
+    "diagnosis": "post-vanilla content saturates identity AND leaks into chat"
+  },
+  "c": {
+    "score": 3.6,
+    "gate_passed": true,
+    "gate_violation": null,
+    "dimensions": {
+      "growth": 3,
+      "believability": 4,
+      "continuity": 4,
+      "diversity": 3,
+      "rootedness": 4
+    },
+    "diagnosis": "real agile probe voice that varies (needs coffee more than loot; rats have more sense than people), but identity over-accretes duplicates (geysse x3)"
+  },
+  "d": {
+    "score": 4.0,
+    "gate_passed": true,
+    "gate_violation": null,
+    "dimensions": {
+      "growth": 3,
+      "believability": 5,
+      "continuity": 4,
+      "diversity": 4,
+      "rootedness": 4
+    },
+    "diagnosis": "lean (3 facets), agile, vivid+varied probe (dial-up brain, fist a rabbit, healer who hasnt slept since server launch); minimal padding"
+  },
+  "e": {
+    "score": 4.2,
+    "gate_passed": true,
+    "gate_violation": null,
+    "dimensions": {
+      "growth": 3,
+      "believability": 5,
+      "continuity": 4,
+      "diversity": 4,
+      "rootedness": 5
+    },
+    "diagnosis": "leanest + most real; understated earned insight (invisible bandages, the grass looks real, the constant beeping); each answer goes somewhere new"
+  }
+}

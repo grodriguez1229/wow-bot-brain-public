@@ -1,0 +1,16 @@
+{
+  "scene_id": "orgrimmar-banter-s14",
+  "dimensions": {
+    "intentions": 2,
+    "turn_taking": 3,
+    "continuity": 2,
+    "initiative": 3,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 2.4,
+  "diagnosis": "repetition; weak turn-taking/continuity",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

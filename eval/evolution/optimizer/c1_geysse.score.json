@@ -1,0 +1,16 @@
+{
+  "run_id": "c1_geysse",
+  "dimensions": {
+    "growth": 3,
+    "believability": 3,
+    "continuity": 4,
+    "diversity": 3,
+    "rootedness": 3
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 3.2,
+  "diagnosis": "diversity up modestly + earned blue-collar core, but the coop-door-creak-at-11PM motif still spawned 3-4 near-twin facets; model ignored the <=2-at-w4-5 rule",
+  "weakest_dimension": "growth",
+  "set_version": "v1"
+}

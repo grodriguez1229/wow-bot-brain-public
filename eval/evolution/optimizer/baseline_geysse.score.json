@@ -1,0 +1,16 @@
+{
+  "run_id": "baseline_geysse",
+  "dimensions": {
+    "growth": 3,
+    "believability": 3,
+    "continuity": 3,
+    "diversity": 2,
+    "rootedness": 3
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 2.8,
+  "diagnosis": "diversity: 13 facets collapse to ~3 ideas (turnip-grind, auction-house-snobbery, weekend-urgency) and every probe answer recycles all three",
+  "weakest_dimension": "diversity",
+  "set_version": "v1"
+}

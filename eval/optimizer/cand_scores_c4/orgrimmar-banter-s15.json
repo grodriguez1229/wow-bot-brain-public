@@ -1,0 +1,16 @@
+{
+  "scene_id": "orgrimmar-banter-s15",
+  "dimensions": {
+    "intentions": 2,
+    "turn_taking": 2,
+    "continuity": 1,
+    "initiative": 2,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 1.8,
+  "diagnosis": "naming banned phrases didn't reduce them (ignored/primed); heavy coffee repetition",
+  "weakest_dimension": "continuity",
+  "set_version": "v1"
+}

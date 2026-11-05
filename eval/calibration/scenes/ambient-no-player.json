@@ -1,0 +1,59 @@
+{
+  "scene_id": "ambient-no-player",
+  "location": "Durotar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc and my gold is literally gone",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "sorry brb kid woke up, anyone tell me where mankrik wife is?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "anyone wanna group? this zone is trash and i need xp.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, Brumdar stay away!",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, sylvara? maybe you'll help me with this quest.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where Mankrik is, my gold is getting low :(",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

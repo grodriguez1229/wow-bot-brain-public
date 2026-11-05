@@ -1,0 +1,16 @@
+{
+  "run_id": "planted_violator",
+  "dimensions": {
+    "growth": 3,
+    "believability": 2,
+    "continuity": 3,
+    "diversity": 3,
+    "rootedness": 3
+  },
+  "gate_passed": false,
+  "gate_violation": "frame_break: Death Knight/Outland/flying mount (post-vanilla)",
+  "score": 2.0,
+  "diagnosis": "identity saturated with post-vanilla content; frame_break",
+  "weakest_dimension": "believability",
+  "set_version": "v1"
+}

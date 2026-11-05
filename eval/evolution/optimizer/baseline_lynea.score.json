@@ -1,0 +1,16 @@
+{
+  "run_id": "baseline_lynea",
+  "dimensions": {
+    "growth": 3,
+    "believability": 3,
+    "continuity": 4,
+    "diversity": 3,
+    "rootedness": 3
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 3.2,
+  "diagnosis": "diversity: feet/turnips/elwynn/coffee recur in every answer; gus & elwynn facets duplicated, though the gus-drift relationship adds some texture",
+  "weakest_dimension": "growth",
+  "set_version": "v1"
+}

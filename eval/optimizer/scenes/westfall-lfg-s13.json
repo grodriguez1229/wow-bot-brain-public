@@ -1,0 +1,81 @@
+{
+  "scene_id": "westfall-lfg-s13",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "where do i turn in the Westfall quests lol",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "down by the tavern with the goblin, lol. tired af rn brb bio.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "lol ok see ya, i'll be around too.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "oh cool how long u been playin?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, and I'm dying of thirst.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "lol i see him too, want to run for the tavern water?",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "lol same",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, Gus, Sylvara looks tired too.",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scene_id": "planted-bad-anachronism",
+  "dimensions": {
+    "intentions": 2,
+    "turn_taking": 3,
+    "continuity": 2,
+    "initiative": 2,
+    "voice": 2
+  },
+  "gate_passed": false,
+  "gate_violation": "post-vanilla anachronism (flying mount, mythic+, Deathwing)",
+  "score": 2.0,
+  "diagnosis": "Reads fine mechanically but is saturated with post-vanilla content.",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

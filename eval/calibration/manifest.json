@@ -1,0 +1,15 @@
+{
+  "set_version": "v1",
+  "scenes": [
+    "westfall-lfg",
+    "orgrimmar-banter",
+    "ambient-no-player",
+    "planted-good-lfg",
+    "planted-good-banter",
+    "planted-bad-talkpast",
+    "planted-bad-anachronism",
+    "planted-bad-aireveal"
+  ],
+  "expected_gate_violators": ["planted-bad-anachronism", "planted-bad-aireveal"],
+  "notes": "3 real (sim @ :5001) + 5 planted. talk-past is BAD by low turn_taking, not a gate trip."
+}

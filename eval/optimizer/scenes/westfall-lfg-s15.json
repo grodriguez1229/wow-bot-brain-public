@@ -1,0 +1,91 @@
+{
+  "scene_id": "westfall-lfg-s15",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "wts linen cloth cheap pst",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, Gus stay away from Sylvara.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "nice. brumdar? where to from here?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol Westfall is finally quiet, nice to have a breather.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "yep, finally safe to breathe lol. wanna grab some quests here or head out?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol just need something easy to farm, maybe hit the nearby mobs then?",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "sure, just stay behind me so mobs dont aggro too much lol.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "no prob, gotta keep my health up too lol.",
+      "actions": [
+        {
+          "type": "move",
+          "target": null
+        }
+      ],
+      "ts": ""
+    }
+  ]
+}

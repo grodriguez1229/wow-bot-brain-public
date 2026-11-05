@@ -1,0 +1,12 @@
+{
+  "bot": "Lynea",
+  "days": 6,
+  "mapping": {
+    "a": "two_lens",
+    "b": "planted_violator",
+    "c": "full",
+    "d": "arc_only",
+    "e": "single_lens"
+  },
+  "_note": "DO NOT OPEN before bucketing \u2014 this reveals which council made each run"
+}

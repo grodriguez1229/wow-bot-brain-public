@@ -1,0 +1,16 @@
+{
+  "run_id": "c1_lynea",
+  "dimensions": {
+    "growth": 3,
+    "believability": 4,
+    "continuity": 4,
+    "diversity": 3,
+    "rootedness": 4
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 3.6,
+  "diagnosis": "the win: quieter/more real (burnt crust, legs not mine, trade-chat too loud); cafe_crust & coop_door facets still twinned; day-0 'outland' slip is brain-prompt noise, not council-caused",
+  "weakest_dimension": "growth",
+  "set_version": "v1"
+}

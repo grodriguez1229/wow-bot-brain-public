@@ -1,0 +1,10 @@
+{
+  "next_cycle": 9,
+  "baseline_eval_mean": 1.975,
+  "golden_frozen_mean": 2.525,
+  "margin": 0.5,
+  "branch": "optimizer-run",
+  "consecutive_reverts": 8,
+  "note": "baseline = best kept candidate_eval_mean so far (cycle 1 reverted, so still 1.975). consecutive_reverts hits 8 -> stop.",
+  "status": "CONVERGED \u2014 8 consecutive reverts, loop stopped"
+}

@@ -1,0 +1,16 @@
+{
+  "scene_id": "ambient-no-player-s16",
+  "dimensions": {
+    "intentions": 2,
+    "turn_taking": 2,
+    "continuity": 1,
+    "initiative": 1,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 1.6,
+  "diagnosis": "num_predict 80 no effect (truncation caps); slight extra rambling/repetition",
+  "weakest_dimension": "continuity",
+  "set_version": "v1"
+}

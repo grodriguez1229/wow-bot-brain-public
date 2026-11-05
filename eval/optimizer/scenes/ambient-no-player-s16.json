@@ -1,0 +1,59 @@
+{
+  "scene_id": "ambient-no-player-s16",
+  "location": "Durotar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, hope Sylvara isn't stuck again.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh, just got killed by the murloc again, need to find a healer.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "this zone is brutal, anyone need a healer?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "uggh murlocs again, just want to find Brumdar's help.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol this Durotar swamp is draining my patience but Sylvara looks cool.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where to go next in durotar?",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

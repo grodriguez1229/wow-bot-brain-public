@@ -1,0 +1,91 @@
+{
+  "scene_id": "westfall-lfg-s14",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "anyone lfg SM Cath?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "lol same",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol no thanks, just trying to get my head around my quests.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "haha ok, westfall quests are kinda confusing lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol yeah, i'm tired so just follow my lead and we'll sort it out.",
+      "actions": [
+        {
+          "type": "invite",
+          "target": "Gus"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "haha ok, i'll just follow you then lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol yeah, just point the way i guess.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "Ugh, so many rats in Westfall... what means \"rat\"?",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

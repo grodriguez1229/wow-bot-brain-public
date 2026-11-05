@@ -1,0 +1,14 @@
+{
+  "scene_id": "planted-good-lfg",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": ["Brumdar", "Sylvara", "Gus"],
+  "turns": [
+    {"idx": 0, "speaker": "Gus", "channel": "GENERAL", "text": "anyone lfg deadmines? need a tank", "actions": [], "ts": ""},
+    {"idx": 1, "speaker": "Brumdar", "channel": "GENERAL", "text": "i can tank, warrior, lvl 18. still need heals tho", "actions": [], "ts": ""},
+    {"idx": 2, "speaker": "Sylvara", "channel": "GENERAL", "text": "ooh i'll heal, priest. where u guys at? im by the bridge", "actions": [{"type": "invite", "target": "Brumdar"}], "ts": ""},
+    {"idx": 3, "speaker": "Brumdar", "channel": "GENERAL", "text": "nice ok inv incoming, lemme repair first one sec", "actions": [], "ts": ""},
+    {"idx": 4, "speaker": "Gus", "channel": "GENERAL", "text": "perfect, i'll summon... oh wait no summons lol. run to sentinel hill?", "actions": [], "ts": ""},
+    {"idx": 5, "speaker": "Sylvara", "channel": "GENERAL", "text": "haha yeah no summons in classic, omw. last time i did DM the boat boss wiped us, watch the patrols", "actions": [], "ts": ""}
+  ]
+}

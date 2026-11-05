@@ -1,0 +1,102 @@
+{
+  "scene_id": "orgrimmar-banter-s13",
+  "location": "Orgrimmar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "where do i turn in the Orgrimmar quests lol",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "westfall's the place, sorry i'm beat lol",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "yep same, gonna head to grom's hill for a bit brb bio.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "oh cool how long u been playin?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol Gus, anyone know where to farm gold for better gear?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "yeah westfall is good for xp and gold lol brb bio",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "lol same",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "Ugh, gotta sell this trash before I collapse; Gus looks tired too.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 8,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "hehe same, brb bio",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 9,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol yeah me too, see ya in westfall then.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    }
+  ]
+}

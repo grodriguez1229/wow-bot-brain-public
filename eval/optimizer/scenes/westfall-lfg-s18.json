@@ -1,0 +1,91 @@
+{
+  "scene_id": "westfall-lfg-s18",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "wts linen cloth cheap pst",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "ok inv me then",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol westfall vendors don't sell cloth, try the auction house or a quest drop, tired but will check for ya.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "any of u know where the flight master is",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "thanks gus! ill check ah then lol.",
+      "actions": [
+        {
+          "type": "invite",
+          "target": "Gus"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "no worries, hope you find some cloth soon lol.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "thanks gus! i'll keep looking around westfall then.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "np, head out to stormwind if you need help there.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    }
+  ]
+}

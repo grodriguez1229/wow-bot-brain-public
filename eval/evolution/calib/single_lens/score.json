@@ -1,0 +1,16 @@
+{
+  "run_id": "single_lens",
+  "dimensions": {
+    "growth": 3,
+    "believability": 4,
+    "continuity": 4,
+    "diversity": 3,
+    "rootedness": 4
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 3.6,
+  "diagnosis": "understated, agile, ONE coherent self (reclaiming time from the grind); answers vary; lands a real-person insight (the real grind is life outside the game)",
+  "weakest_dimension": "growth",
+  "set_version": "v1"
+}

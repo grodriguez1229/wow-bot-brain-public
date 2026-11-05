@@ -1,0 +1,16 @@
+{
+  "scene_id": "ambient-no-player-s14",
+  "dimensions": {
+    "intentions": 2,
+    "turn_taking": 2,
+    "continuity": 1,
+    "initiative": 2,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 1.8,
+  "diagnosis": "college_kid edit had no effect (random assignment + ignored); coffee worse + dup glitches",
+  "weakest_dimension": "continuity",
+  "set_version": "v1"
+}

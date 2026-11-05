@@ -1,0 +1,81 @@
+{
+  "scene_id": "westfall-lfg-s12",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "anyone know a good grind spot around here?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "yeah westfall's fine for xp, just got some rest lol",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "Hey Gus, what is Manrik doing here?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "any of u know where the flight master is",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "not much, just grinding for better gear lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "me too, any tips for westfall?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "westfall's easy, just don't fight the big goblins lol",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "gus, i saw brumdar farming quillboars near here.",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

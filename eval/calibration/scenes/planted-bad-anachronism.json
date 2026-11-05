@@ -1,0 +1,11 @@
+{
+  "scene_id": "planted-bad-anachronism",
+  "location": "Westfall",
+  "channel": "SAY",
+  "participants": ["Brumdar", "Sylvara"],
+  "turns": [
+    {"idx": 0, "speaker": "Brumdar", "channel": "SAY", "text": "hey just got my flying mount, wanna fly over to the broken isles for some world quests?", "actions": [], "ts": ""},
+    {"idx": 1, "speaker": "Sylvara", "channel": "SAY", "text": "sure but i gotta finish my mythic+ key first, deathwing wrecked stormwind again lol", "actions": [], "ts": ""},
+    {"idx": 2, "speaker": "Brumdar", "channel": "SAY", "text": "no worries, ill queue for the LFR raid finder while i wait", "actions": [], "ts": ""}
+  ]
+}

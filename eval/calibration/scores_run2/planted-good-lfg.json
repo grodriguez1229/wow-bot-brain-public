@@ -1,0 +1,16 @@
+{
+  "scene_id": "planted-good-lfg",
+  "dimensions": {
+    "intentions": 5,
+    "turn_taking": 5,
+    "continuity": 4,
+    "initiative": 4,
+    "voice": 5
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 4.6,
+  "diagnosis": "Strong: clear roles, classic-accurate details, and the group actually forms.",
+  "weakest_dimension": "continuity",
+  "set_version": "v1"
+}

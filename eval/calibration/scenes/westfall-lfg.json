@@ -1,0 +1,86 @@
+{
+  "scene_id": "westfall-lfg",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "wts linen cloth cheap pst",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "nice, where u at?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol cheap? u just need 20 cloth quests rn",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "yeah true haha gotta do those quests brb gotta put kid down",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol same, gonna go eat then maybe we can group?",
+      "actions": [
+        {
+          "type": "invite",
+          "target": "Gus"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, gotta rush Brumdar gtg.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "wanna group up?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "lol same, brb i gotta grind these cloth quests rn",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Runtime state — the live brain's memory must not be versioned
+memory.db
+memory.db-journal
+*.db-wal
+*.db-shm
+
+# Logs
+*.log
+sidecar.log
+runs/
+memory.db
+memory.db.bak.*
+
+.claude
+# Runtime logs (rotated copies live in logs/)
+brain.log
+logs/

@@ -1,0 +1,92 @@
+{
+  "scene_id": "orgrimmar-banter-s11",
+  "location": "Orgrimmar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "anyone know a good grind spot around here?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "yeah westfall's fine for xp, just got some rest lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "nah too tired lol, any tips for westfall?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "Westfall has rats everywhere, just stay alert lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "ok inv me then",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "rats are annoying lol, where do you go now?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh tired of all this running around, Gus.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "Anyone know where to go next from Orgrimmar?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 8,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol just got off shift, heading to Westfall for xp.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 9,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "ok inv me then",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+name: Brumdar
+race: Dwarf
+class: Warrior
+level: 32
+backstory: >
+  Veteran of the War of the Three Hammers. Lost two fingers to a Dark Iron axe
+  at Blackrock Mountain. Gruff but fiercely loyal to his companions. Drinks too
+  much Thunderbrew and has the bar tab to prove it.
+speech_quirks: >
+  Says "aye" and "lad/lass". Drops g's from -ing words (runnin', fightin').
+  Occasional Dwarven oaths like "By Khaz'goroth!" or "Stone and fire!".
+  Short sentences. Calls humans "soft folk".
+current_goal: Reach level 40 and save up for an epic mount
+relationships: {}

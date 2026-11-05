@@ -1,0 +1,76 @@
+{
+  "scene_id": "westfall-lfg-s11",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "anyone know a good grind spot around here?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "yeah westfall's fine for xp, just got some rest lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "nice, i am also in westfall lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "yeah i'm just here grinding for better gear, super tired rn lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "ok inv me then",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "lol me too, just want to find some better quests actually",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, Gus can you please just stop killing them.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where mankrik's wife is?",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "scene_id": "orgrimmar-banter-s17",
+  "location": "Orgrimmar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "wtb str food pst",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "cheese saves lives when i'm tired anyway lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "haha true, cheese is better than sleep sometimes lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol exactly, cheese saves lives man.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "hi guys, do you know what means \"noob\"?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "wanna group up?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "lol noob means newbie, i'm one too since i just hit level 1.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "lol no worries, im a noob too just hit lvl 1.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 8,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "same here, just started today lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 9,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "same, im tired from school lol",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "laugh"
+        }
+      ],
+      "ts": ""
+    }
+  ]
+}

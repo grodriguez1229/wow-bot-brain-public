@@ -1,0 +1,16 @@
+{
+  "scene_id": "ambient-no-player-s13",
+  "dimensions": {
+    "intentions": 1,
+    "turn_taking": 2,
+    "continuity": 1,
+    "initiative": 1,
+    "voice": 2
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 1.4,
+  "diagnosis": "repetition; weak turn-taking/continuity",
+  "weakest_dimension": "intentions",
+  "set_version": "v1"
+}

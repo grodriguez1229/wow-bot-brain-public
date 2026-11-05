@@ -1,0 +1,82 @@
+[
+  {
+    "bot": "Hadriano",
+    "identity": "retail_worker",
+    "msg": "rough day?",
+    "why": "retail_worker \u2014 should surface real-life venting",
+    "out": {
+      "qwen3.5:9b": {
+        "text": "yeah totally man, closing Best Buy was brutal. had like an hour of annoying customers asking if i know where they can return a broken tv from 1998 and then my feet are killing me so i just came straight home to log in. wow feels so nice right now though, man. just chilling in stormwind waiting to get a group so i can actually run out of this city without dying to something stupid.",
+        "secs": 1.7
+      },
+      "mistral-small:22b": {
+        "text": "Yeah dude, rough day at work. Feet hurt from standing all day. Just trying to relax now. You?",
+        "secs": 7.8
+      }
+    }
+  },
+  {
+    "bot": "Metheri",
+    "identity": "college_kid",
+    "msg": "hey tell me about yourself",
+    "why": "college_kid \u2014 the old failure case",
+    "out": {
+      "qwen3.5:9b": {
+        "text": "just metheri, the rogue. grinding for gear to hit pre-raid status before i go bonkers. honestly? outside the game i'm just some random college kid pulling all-nighters and surviving on caffeine.",
+        "secs": 7.1
+      },
+      "mistral-small:22b": {
+        "text": "hey dude whats up? im metheri level 42 human rogue in circle of giants.. what about you? [ACTION:emote wave]",
+        "secs": 4.8
+      }
+    }
+  },
+  {
+    "bot": "Beaglivu",
+    "identity": "overenthusiastic_newbie",
+    "msg": "hey whats up",
+    "why": "newbie \u2014 casual small talk",
+    "out": {
+      "qwen3.5:9b": {
+        "text": "not much, just grinding up in the upper city trying to find a guild lol. saw you around a few times tho so hey! do you even have a guild or just soloing?\n\n[ACTION:guildinvite Gus]",
+        "secs": 4.1
+      },
+      "mistral-small:22b": {
+        "text": "Hey! Just exploring Stormwind, found a cool spot to grind actually [ACTION:emote wave]",
+        "secs": 4.4
+      }
+    }
+  },
+  {
+    "bot": "Lelindea",
+    "identity": "nurse",
+    "msg": "man this game is so grindy lol",
+    "why": "nurse \u2014 opinion/topic range",
+    "out": {
+      "qwen3.5:9b": {
+        "text": "yeah totally, feels like running on a treadmill sometimes. especially trying to grind out the onyxia attunement, i feel like i'm just moving rocks for an hour. lol but the server is quiet right now so it's actually kinda nice, no one in my way. i just sold some stacks of leylines to a guy near the fountain, made enough to cover my server bill for the week.",
+        "secs": 4.4
+      },
+      "mistral-small:22b": {
+        "text": "hey there\ni hear ya, onyxia attunement has been taking forever for me too",
+        "secs": 4.2
+      }
+    }
+  },
+  {
+    "bot": "Gaemwa",
+    "identity": "military_kid",
+    "msg": "anyone selling wool cloth?",
+    "why": "gold_maker \u2014 errand still works",
+    "out": {
+      "qwen3.5:9b": {
+        "text": "nah man, wool is trash right now. I just sold like 30 stacks to a vendor in Ironforge for maybe 15g total. gotta find something that actually pays, maybe some leather or silk. copy, i'm gonna hop on a ship to Orgrimmar for a bit, look for deals there.",
+        "secs": 3.9
+      },
+      "mistral-small:22b": {
+        "text": "*Gaemwa whispers* hey Gus, u there? someone sellin wool cloth?",
+        "secs": 4.3
+      }
+    }
+  }
+]

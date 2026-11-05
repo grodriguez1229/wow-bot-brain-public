@@ -1,0 +1,59 @@
+{
+  "scene_id": "ambient-no-player-s17",
+  "location": "Durotar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "Durotar grass is so tall lol, any help finding Mankrik's wife?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, nice.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know what means mankrik wife quest?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "Sylvara, do you know where the quest in Booty Bay is?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "anyone know where mankrik wife is?",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

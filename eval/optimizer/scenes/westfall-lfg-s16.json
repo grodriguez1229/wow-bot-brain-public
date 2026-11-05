@@ -1,0 +1,91 @@
+{
+  "scene_id": "westfall-lfg-s16",
+  "location": "Westfall",
+  "channel": "GENERAL",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "where do i turn in the Westfall quests lol",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "turn 'em in at the inn in Stornberg lol, brb eating.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "ok lol, see ya in Westfall brb!",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "cool, brb eating something quick lol",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Sylvara",
+      "channel": "GENERAL",
+      "text": "k cool lol, u eat first :)",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "ok inv me then",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "yeah food first, gotta eat something before i pass out lol.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Gus",
+      "channel": "GENERAL",
+      "text": "wanna group up?",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

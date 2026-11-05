@@ -1,0 +1,45 @@
+{
+  "set_version": "v1",
+  "gate_margin": 0.5,
+  "golden_dir": "eval/calibration/scenes",
+  "golden": [
+    "westfall-lfg",
+    "orgrimmar-banter",
+    "ambient-no-player",
+    "planted-good-lfg",
+    "planted-good-banter",
+    "planted-bad-talkpast",
+    "planted-bad-anachronism",
+    "planted-bad-aireveal"
+  ],
+  "scenes_dir": "eval/optimizer/scenes",
+  "eval": [
+    "ambient-no-player-s11",
+    "orgrimmar-banter-s11",
+    "westfall-lfg-s11",
+    "ambient-no-player-s12",
+    "orgrimmar-banter-s12",
+    "westfall-lfg-s12",
+    "ambient-no-player-s13",
+    "orgrimmar-banter-s13",
+    "westfall-lfg-s13",
+    "ambient-no-player-s14",
+    "orgrimmar-banter-s14",
+    "westfall-lfg-s14",
+    "ambient-no-player-s15",
+    "orgrimmar-banter-s15",
+    "westfall-lfg-s15",
+    "ambient-no-player-s16"
+  ],
+  "heldout": [
+    "orgrimmar-banter-s16",
+    "westfall-lfg-s16",
+    "ambient-no-player-s17",
+    "orgrimmar-banter-s17",
+    "westfall-lfg-s17",
+    "ambient-no-player-s18",
+    "orgrimmar-banter-s18",
+    "westfall-lfg-s18"
+  ],
+  "gate_margin_note": "judge-only floor 0.4; gen+judge spread measured 0.2 on a 5-scene sample (low: baseline uniformly mediocre); M=0.5 with safety buffer for generation variance."
+}

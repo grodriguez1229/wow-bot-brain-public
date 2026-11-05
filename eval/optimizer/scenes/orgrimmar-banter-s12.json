@@ -1,0 +1,102 @@
+{
+  "scene_id": "orgrimmar-banter-s12",
+  "location": "Orgrimmar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara",
+    "Gus"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "anyone know a good grind spot around here?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "not much, just grinding for better gear lol brb bio",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, Gus is probably selling fish.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Gus",
+      "channel": "SAY",
+      "text": "any of u know where the flight master is",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "haha yeah i'll grab one quick, brb bio lol.",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "lol ok, see u in westfall then",
+      "actions": [
+        {
+          "type": "emote",
+          "target": "wave"
+        }
+      ],
+      "ts": ""
+    },
+    {
+      "idx": 6,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "cool, see ya in westfall lol, brb bio tired",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 7,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc... Gus says hello to Brumdar.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 8,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, need to level up my gear fast.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 9,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, nice",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

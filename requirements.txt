@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+httpx==0.27.2
+pyyaml==6.0.2
+pydantic==2.9.2
+pymysql==1.1.1
+
+# test / spec (BDD)
+pytest==9.0.3
+pytest-bdd==8.1.0
+cryptography==49.0.0

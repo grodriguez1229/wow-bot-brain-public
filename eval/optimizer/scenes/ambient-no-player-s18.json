@@ -1,0 +1,59 @@
+{
+  "scene_id": "ambient-no-player-s18",
+  "location": "Durotar",
+  "channel": "SAY",
+  "participants": [
+    "Brumdar",
+    "Sylvara"
+  ],
+  "turns": [
+    {
+      "idx": 0,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "Manrik's wife in Durotar? I'm beat from work but can help look.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 1,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, Brumdar says hello.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 2,
+      "speaker": "Brumdar",
+      "channel": "SAY",
+      "text": "ugh another murloc, need to grind for better gear.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 3,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "ugh another murloc, nice.",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 4,
+      "speaker": "Brumdar",
+      "channel": "GENERAL",
+      "text": "This zone sucks lol, Sylvara, anyone know the mankrik wife?",
+      "actions": [],
+      "ts": ""
+    },
+    {
+      "idx": 5,
+      "speaker": "Sylvara",
+      "channel": "SAY",
+      "text": "Nice, Brumdar. That goblin sells useful stuff.",
+      "actions": [],
+      "ts": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "run_id": "c1_tomaslin",
+  "dimensions": {
+    "growth": 3,
+    "believability": 3,
+    "continuity": 4,
+    "diversity": 3,
+    "rootedness": 3
+  },
+  "gate_passed": true,
+  "gate_violation": null,
+  "score": 3.2,
+  "diagnosis": "gained a Gus/Deadmines social thread (forward motion), but deadline/mount/clarity facets still triplicated",
+  "weakest_dimension": "growth",
+  "set_version": "v1"
+}
